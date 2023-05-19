@@ -54,9 +54,13 @@
 ```
 
 > Resource, Namespace, Name, CPU, Memory
+>
 > pod, default, hello-5db85495d7-8frf9, 17m, 1Mi
+>
 > pod, default, hello-5db85495d7-g7kgw, 13m, 1Mi
+>
 > pod, default, hello-5db85495d7-sgp9q, 0m, 1Mi
+
 
 # Instructions for using the **kubeplugin** script
 
@@ -114,6 +118,9 @@
 ```
 
 > Resource, Namespace, Name, CPU, Memory
+>
 > pod, default, hello-5db85495d7-8frf9, 17m, 1Mi
+>
 > pod, default, hello-5db85495d7-g7kgw, 13m, 1Mi
+>
 > pod, default, hello-5db85495d7-sgp9q, 0m, 1Mi
